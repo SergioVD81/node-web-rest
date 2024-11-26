@@ -16,7 +16,7 @@ Pequeño proyecto donde se utiliza la arquitectura limpia con express
    Dirigase al directorio del proyecto y a través del la terminal accede al proyecto mediante el comando:
 
 ```bash
-    cd gifApp
+    cd node-web-rest
 ```
 
 3. **Instalación de dependencias:**
